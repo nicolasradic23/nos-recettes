@@ -26,7 +26,7 @@ conseils:
 # Préparation
 
 1. Sortez la pizza de la boite
-2. Mettez la dans le four à 180 °C
+2. Mettez-la dans le four à 180 °C
 3. Attendez 20 min
 4. MANGEZ
 
