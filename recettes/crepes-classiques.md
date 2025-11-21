@@ -15,7 +15,7 @@ tags:
   - végétarien
 image:
 ingredients:
-  - "250 g de farine"
+  - "255 g de farine"
   - "3 œufs"
   - "50 g de sucre"
   - "1 pincée de sel"
